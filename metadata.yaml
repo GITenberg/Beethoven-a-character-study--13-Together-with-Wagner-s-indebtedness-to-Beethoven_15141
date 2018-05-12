@@ -1,0 +1,32 @@
+_repo: Beethoven-a-character-study--13-Together-with-Wagner-s-indebtedness-to-Beethoven_15141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fischer, George Alexander
+    gutenberg_agent_id: '5945'
+    url: http://www.gutenberg.org/2009/agents/5945
+description: Cover; Front Matter; Title Page; Publisher Information; Beethoven; Early
+  Promise; The Morning Of Life; The New Path; Heroic Symphony; Fidelio; The Eternal
+  Feminine; Victory From Defeat; Meeting With Goethe; Optimistic Trend; At The Zenith
+  Of His Fame; Methods Of Composition; Sense Of Humor; Missa Solemnis; Ninth Symphony;
+  Capacity For Friendship; The Day's Trials; Last Quartets; In The Shadows; Life's
+  Purport; Wagner's Indebtedness To Beethoven; Also Available.
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15141'
+  lccn: 05008664
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wagner, Richard, 1813-1883'
+- !lcc 'ML'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+title: "Beethoven, a character study\r\nTogether with Wagner's indebtedness to Beethoven"
+url: http://www.gutenberg.org/ebooks/15141
